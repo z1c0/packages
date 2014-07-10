@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PngGauntlet</id>
+    <title>PNGGauntlet</title>
+    <version>3.1.2.0</version>
+    <authors>Benjamin Hollis</authors>
+    <owners>Wolfgang Ziegler</owners>
+    <summary>Smash PNGs for faster sites</summary>
+    <description>Combines PNGOUT, OptiPNG, and DeflOpt to create the smallest
+    PNGs. No image quality is lost — only file size. Converts JPG, GIF, TIFF, and BMP files to PNG. Ultra-configurable.</description>
+    <projectUrl>http://pnggauntlet.com/</projectUrl>
+    <tags>pnggauntlet png jpg jpeg image optimization web compress</tags>
+    <copyright>Benjamin Hollis</copyright>
+    <licenseUrl>http://pnggauntlet.com</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>webmatrix</id>
+    <title>WebMatrix</title>
+    <version>3.0.0.1</version>
+    <authors>Microsoft Corporation</authors>
+    <owners>Wolfgang Ziegler</owners>
+    <summary>WebMatrix</summary>
+    <description>WebMatrix is a free, lightweight, cloud-connected web development tool</description>
+    <projectUrl>http://www.microsoft.com/web/webmatrix/</projectUrl>
+    <tags>webmatrix microsoft web development azure asp.net</tags>
+    <copyright>Microsoft Corporation</copyright>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/webpi_45_en.htm</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://raw.github.com/__CHOCO_PKG_OWNER_REPO__/master/webmatrix/webmatrix.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
