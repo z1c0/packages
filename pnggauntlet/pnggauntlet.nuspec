@@ -3,7 +3,7 @@
   <metadata>
     <id>PngGauntlet</id>
     <title>PNGGauntlet</title>
-    <version>3.1.2.1</version>
+    <version>3.1.2.2</version>
     <authors>Benjamin Hollis</authors>
     <owners>Wolfgang Ziegler</owners>
     <summary>Smash PNGs for faster sites</summary>
@@ -14,7 +14,8 @@
     <copyright>Benjamin Hollis</copyright>
     <licenseUrl>https://raw.githubusercontent.com/z1c0/packages/master/pnggauntlet/license.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes>https://raw.githubusercontent.com/z1c0/packages/master/pnggauntlet/pnggauntlet</releaseNotes>
+    <releaseNotes></releaseNotes>
+    <iconUrl>https://raw.githubusercontent.com/z1c0/packages/master/pnggauntlet/pnggauntlet.png</iconUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
